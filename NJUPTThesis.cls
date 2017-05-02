@@ -1,6 +1,6 @@
 % !Mode:: "TeX:UTF-8"
 \NeedsTeXFormat{LaTeX2e}[1999/12/01]
-\ProvidesClass{WHUBachelor}[2016/05/31 4.0 Wuhan University Thesis Template for Bachelor Degree]
+\ProvidesClass{NJUPTThesis}[2017/05/02 4.0 Nanjing University of Posts and Telecommunications Thesis Template for Bachelor Degree]
 \LoadClass[zihao=-4,a4paper,oneside]{ctexbook}
 \setmainfont{Times New Roman}
 
