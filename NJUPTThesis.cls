@@ -37,10 +37,11 @@
 
 \fancypagestyle{plain}
 {
-\fancyhead{}                                    % clear all header fields
-\renewcommand{\headrulewidth}{0pt}
-\fancyfoot{}                                    % clear all footer fields
-\fancyfoot[C]{-\,\thepage\,-}
+	\fancyhead{}                   
+	\fancyhead[CH]{南京邮电大学XXXX届本科生毕业设计(论文)}                 % clear all header fields
+	\renewcommand{\headrulewidth}{0pt}
+	\fancyfoot{}                                    % clear all footer fields
+	\fancyfoot[C]{-\,\thepage\,-}
 }
 
 %%=====封面===================== 
