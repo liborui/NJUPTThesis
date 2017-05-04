@@ -30,4 +30,3 @@ Bachelor Thesis Template of NJUPT
 
 黄正华教授个人主页：http://aff.whu.edu.cn/huangzh/
 
-2017 年 05 月 02 日
